@@ -36,6 +36,22 @@ html {
   border-bottom-color: #fff;
 }
 
+a:focus {
+  outline: 6px solid #10e7ee;
+}
+
+.nav a:focus {
+  outline: 6px solid #10e7ee;
+}
+
+.heave:focus {
+  outline: 6px solid #000;
+}
+
+.heave:focus {
+  outline: 6px solid #10e7ee;
+}
+
 .banner {
   min-height: 16em;
   color: #fff;
