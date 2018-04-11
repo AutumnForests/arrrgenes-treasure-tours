@@ -43,10 +43,11 @@ html {
 .banner {
   min-height: 16em;
   color: #fff;
+  background-color: #000;
 }
 
 h2 {
-  color: #000;
+  color: #fff;
 }
 
 .card {
