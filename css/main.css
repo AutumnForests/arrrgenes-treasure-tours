@@ -36,25 +36,17 @@ html {
   border-bottom-color: #fff;
 }
 
-a:focus {
-  outline: 6px solid #10e7ee;
-}
-
 .nav a:focus {
-  outline: 6px solid #10e7ee;
-}
-
-.heave:focus {
-  outline: 6px solid #000;
-}
-
-.ahoy:focus {
   outline: 6px solid #10e7ee;
 }
 
 .banner {
   min-height: 16em;
   color: #fff;
+}
+
+h2 {
+  color: #000;
 }
 
 .card {
