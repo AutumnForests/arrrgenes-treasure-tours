@@ -37,7 +37,7 @@ html {
 }
 
 .nav a:focus {
-  outline: 6px solid #10e7ee;
+  outline: 6px solid #fff;
 }
 
 .banner {
